@@ -1,6 +1,6 @@
 part of 'date_picker_i18n.dart';
 
-/// Arabic (KU)
+/// Kurdish (KU)
 class _StringsKu extends _StringsI18n {
   const _StringsKu();
 
