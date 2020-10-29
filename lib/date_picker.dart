@@ -38,6 +38,9 @@ class DatePicker {
 
       case 'ar':
         return DateTimePickerLocale.ar;
+        
+      case 'ku':
+        return DateTimePickerLocale.ku;
 
       case 'jp':
         return DateTimePickerLocale.jp;
